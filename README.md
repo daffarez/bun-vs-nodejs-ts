@@ -1,7 +1,6 @@
 ### Setup Instructions
 
 #### Install dependencies:
-
 - Under the `bun` folder:
   ```bash
   bun install
@@ -10,11 +9,11 @@
    ```bash
   npm install
 
-   - Under the `bun-vs-node` folder:
+- Under the `bun-vs-node` folder:
    ```bash
   npm install
 
-  Run the benchmark
+#### Run the benchmark
    ```bash
    ts-node-dev benchmark-compare.ts
    
